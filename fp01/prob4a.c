@@ -1,8 +1,8 @@
-
 #include <stdio.h>
 
 /*
- * Call it like prog_name "Name".
+ * Call it like:
+ *    $prog_name "Name".
  * Will print out "Hello Name !"
  *
  */
