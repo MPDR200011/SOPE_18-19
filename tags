@@ -1,0 +1,234 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/45968eff/
+%.o	sope-extra/Makefile	/^%.o: %.c$/;"	t
+BUFFER_SIZE	fp05/p01a.c	/^#define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	fp05/p01b.c	/^#define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	fp05/p01c.c	/^#define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	fp05/p02.c	/^#define BUFFER_SIZE /;"	d	file:
+BUF_LENGTH	fp01/prob6/prob6a.c	/^#define BUF_LENGTH /;"	d	file:
+BUF_LENGTH	fp01/prob6/prob6d.c	/^#define BUF_LENGTH /;"	d	file:
+BUF_LENGTH	fp01/prob6/prob6e.c	/^#define BUF_LENGTH /;"	d	file:
+BUF_LENGTH	fp01/prob6/prob6f.c	/^#define BUF_LENGTH /;"	d	file:
+BUF_LENGTH	fp01/prob6/prob6g.c	/^#define BUF_LENGTH /;"	d	file:
+BUF_LENGTH	fp01/prob6/prob6h.c	/^#define BUF_LENGTH /;"	d	file:
+BUF_SIZE	sope-extra/5_sa_restart.c	/^#define BUF_SIZE /;"	d	file:
+CC	sope-extra/Makefile	/^CC=gcc$/;"	m
+CFLAGS	sope-extra/Makefile	/^CFLAGS=-Wall -Wextra -Werror -pedantic$/;"	m
+DEV_FLAGS	sope-extra/Makefile	/^DEV_FLAGS = -save-temps$/;"	m
+MAX	fp03/p03.c	/^#define MAX /;"	d	file:
+MAXELEMS	fp07/p01a.c	/^#define MAXELEMS /;"	d	file:
+MAXELEMS	fp07/p01b.c	/^#define MAXELEMS /;"	d	file:
+MAXELEMS	fp07/p03.c	/^#define MAXELEMS /;"	d	file:
+MAXELEMS	fp07/p04.c	/^#define MAXELEMS /;"	d	file:
+MAXTHREADS	fp07/p01a.c	/^#define MAXTHREADS /;"	d	file:
+MAXTHREADS	fp07/p01b.c	/^#define MAXTHREADS /;"	d	file:
+MAXTHREADS	fp07/p03.c	/^#define MAXTHREADS /;"	d	file:
+MAXTHREADS	fp07/p04.c	/^#define MAXTHREADS /;"	d	file:
+NAME_SIZE	fp02/p4b.c	/^#define NAME_SIZE /;"	d	file:
+NUMITER	fp06/p01a.c	/^#define NUMITER /;"	d	file:
+NUMITER	fp06/p01b.c	/^#define NUMITER /;"	d	file:
+NUMITER	fp06/p02.c	/^#define NUMITER /;"	d	file:
+NUMITER	fp07/p02.c	/^#define NUMITER /;"	d	file:
+NUM_THREADS	fp06/p03a.c	/^#define NUM_THREADS /;"	d	file:
+NUM_THREADS	fp06/p03b.c	/^#define NUM_THREADS /;"	d	file:
+NUM_THREADS	fp06/p03c.c	/^#define NUM_THREADS /;"	d	file:
+PrintHello	fp06/p03a.c	/^void* PrintHello(void* threadnum) {$/;"	f	typeref:typename:void *
+PrintHello	fp06/p03b.c	/^void* PrintHello(void* threadnum) {$/;"	f	typeref:typename:void *
+PrintHello	fp06/p03c.c	/^void* PrintHello(void* threadnum) {$/;"	f	typeref:typename:void *
+READ	fp05/p01a.c	/^#define READ /;"	d	file:
+READ	fp05/p01b.c	/^#define READ /;"	d	file:
+READ	fp05/p01c.c	/^#define READ /;"	d	file:
+READ	fp05/p02.c	/^#define READ /;"	d	file:
+SIGNAL_STR	sope-extra/1_fork_pending.c	/^static const char* SIGNAL_STR[] = {[SIGINT] = "SIGINT",$/;"	v	typeref:typename:const char * []	file:
+SIGNAL_STR	sope-extra/2_fork_shell_sigint.c	/^static const char *SIGNAL_STR[] = {[SIGINT] = "SIGINT", [SIGCHLD] = "SIGCHLD", [SIGUSR1] = "SIGU/;"	v	typeref:typename:const char * []	file:
+SIGNAL_STR	sope-extra/3_fork_pending_pgid.c	/^static const char* SIGNAL_STR[] = {[SIGINT] = "SIGINT",$/;"	v	typeref:typename:const char * []	file:
+SIGNAL_STR	sope-extra/4_fork_exec.c	/^static const char* SIGNAL_STR[] = {[SIGINT] = "SIGINT",$/;"	v	typeref:typename:const char * []	file:
+SIGNAL_STR	sope-extra/5_sa_restart.c	/^static const char* SIGNAL_STR[] = {[SIGINT] = "SIGINT",$/;"	v	typeref:typename:const char * []	file:
+STDERR	fp06/p01a.c	/^#define STDERR /;"	d	file:
+STDERR	fp06/p01b.c	/^#define STDERR /;"	d	file:
+STDERR	fp06/p02.c	/^#define STDERR /;"	d	file:
+STDERR	fp07/p02.c	/^#define STDERR /;"	d	file:
+TARGETS	sope-extra/Makefile	/^TARGETS = $(patsubst %.c, %, $(wildcard *.c))$/;"	m
+THREADNUM	fp06/p04a.c	/^#define THREADNUM /;"	d	file:
+THREADNUM	fp06/p04b.c	/^#define THREADNUM /;"	d	file:
+THREADNUM	fp06/p04c.c	/^#define THREADNUM /;"	d	file:
+USED_SIGNALS	sope-extra/1_fork_pending.c	/^static const int USED_SIGNALS[] = {SIGINT, SIGCHLD, SIGUSR1};$/;"	v	typeref:typename:const int[]	file:
+USED_SIGNALS	sope-extra/2_fork_shell_sigint.c	/^static const int USED_SIGNALS[] = {SIGINT, SIGCHLD, SIGUSR1};$/;"	v	typeref:typename:const int[]	file:
+USED_SIGNALS	sope-extra/3_fork_pending_pgid.c	/^static const int USED_SIGNALS[] = {SIGINT, SIGCHLD, SIGUSR1};$/;"	v	typeref:typename:const int[]	file:
+USED_SIGNALS	sope-extra/4_fork_exec.c	/^static const int USED_SIGNALS[] = {SIGINT, SIGCHLD, SIGUSR1};$/;"	v	typeref:typename:const int[]	file:
+USED_SIGNALS	sope-extra/5_sa_restart.c	/^static const int USED_SIGNALS[] = {SIGINT, SIGCHLD, SIGUSR1};$/;"	v	typeref:typename:const int[]	file:
+WRITE	fp05/p01a.c	/^#define WRITE /;"	d	file:
+WRITE	fp05/p01b.c	/^#define WRITE /;"	d	file:
+WRITE	fp05/p01c.c	/^#define WRITE /;"	d	file:
+WRITE	fp05/p02.c	/^#define WRITE /;"	d	file:
+a	fp05/p01b.c	/^    float a;$/;"	m	struct:data	typeref:typename:float	file:
+a	fp05/p02.c	/^    int a;$/;"	m	struct:input	typeref:typename:int	file:
+all	sope-extra/Makefile	/^all: $(TARGETS)$/;"	t
+aluno	fp02/p4b.c	/^struct aluno {$/;"	s	file:
+b	fp05/p01b.c	/^    float b;$/;"	m	struct:data	typeref:typename:float	file:
+b	fp05/p02.c	/^    int b;$/;"	m	struct:input	typeref:typename:int	file:
+buf	fp07/p01a.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+buf	fp07/p01b.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+buf	fp07/p03.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+buf	fp07/p04.c	/^int * buf;$/;"	v	typeref:typename:int *
+childRunning	fp04/p03b.c	/^static int childRunning;$/;"	v	typeref:typename:int	file:
+clean	sope-extra/Makefile	/^clean:$/;"	t
+counter	fp06/p02.c	/^int counter = 50000;$/;"	v	typeref:typename:int
+counter	fp07/p02.c	/^int counter = 50000;$/;"	v	typeref:typename:int
+data	fp05/p01b.c	/^struct data {$/;"	s	file:
+div	fp05/p02.c	/^    float div;$/;"	m	struct:results	typeref:typename:float	file:
+fill	fp07/p01a.c	/^void* fill(void* nr) {$/;"	f	typeref:typename:void *
+fill	fp07/p01b.c	/^void* fill(void* nr) {$/;"	f	typeref:typename:void *
+fill	fp07/p03.c	/^void* fill(void* nr) {$/;"	f	typeref:typename:void *
+fill	fp07/p04.c	/^void* fill(void* nr) {$/;"	f	typeref:typename:void *
+global	fp03/p01.c	/^int global = 1;$/;"	v	typeref:typename:int
+grade	fp02/p4b.c	/^    int grade;$/;"	m	struct:aluno	typeref:typename:int	file:
+growth	fp04/p03a.c	/^static int growth = 1;$/;"	v	typeref:typename:int	file:
+growth	fp04/p03b.c	/^static int growth = 1;$/;"	v	typeref:typename:int	file:
+handler1	fp01/prob7a.c	/^void handler1() {$/;"	f	typeref:typename:void
+handler1	fp01/prob7b.c	/^void handler1() {$/;"	f	typeref:typename:void
+handler2	fp01/prob7a.c	/^void handler2() {$/;"	f	typeref:typename:void
+handler2	fp01/prob7b.c	/^void handler2() {$/;"	f	typeref:typename:void
+input	fp05/p02.c	/^struct input {$/;"	s	file:
+is_parent	sope-extra/1_fork_pending.c	/^bool is_parent() {$/;"	f	typeref:typename:bool
+is_parent	sope-extra/2_fork_shell_sigint.c	/^bool is_parent() { return (getpgid(getpid()) == getpid()); }$/;"	f	typeref:typename:bool
+is_parent	sope-extra/3_fork_pending_pgid.c	/^bool is_parent() {$/;"	f	typeref:typename:bool
+is_parent	sope-extra/4_fork_exec.c	/^bool is_parent() {$/;"	f	typeref:typename:bool
+is_parent	sope-extra/5_sa_restart.c	/^bool is_parent() {$/;"	f	typeref:typename:bool
+main	fp01/prob2.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp01/prob3.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp01/prob4a.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp01/prob4b.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp01/prob5a.c	/^int main(int argn, char * argv[], char * envp[]) {$/;"	f	typeref:typename:int
+main	fp01/prob5b.c	/^int main(int argn, char * argv[], char * envp[]) {$/;"	f	typeref:typename:int
+main	fp01/prob5c.c	/^int main(int argn, char * argv[], char * envp[]) {$/;"	f	typeref:typename:int
+main	fp01/prob5d.c	/^int main(int argn, char * argv[], char * envp[]) {$/;"	f	typeref:typename:int
+main	fp01/prob6/prob6a.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp01/prob6/prob6d.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp01/prob6/prob6e.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp01/prob6/prob6f.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp01/prob6/prob6g.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp01/prob6/prob6h.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp01/prob7a.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp01/prob7b.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp01/prob8a.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp01/prob8b.c	/^int main(int argn, char* argv[]) {$/;"	f	typeref:typename:int
+main	fp02/p1.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp02/p2a.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp02/p2b.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp02/p3a.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp02/p3b.c	/^int main(int argn, char * argv[]) {$/;"	f	typeref:typename:int
+main	fp02/p4a.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp02/p4b.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp02/p6a.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	fp02/p6b.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	fp02/p6d.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	fp03/p01.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp03/p02b.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp03/p02c.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp03/p02d.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp03/p03.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp04/p01a.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp04/p01b.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp04/p01c.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp04/p02a.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp04/p02c.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp04/p03a.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp04/p03b.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp05/p01a.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp05/p01b.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp05/p01c.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp05/p02.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp06/p01a.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp06/p01b.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp06/p02.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp06/p03a.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp06/p03b.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp06/p03c.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp06/p04a.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp06/p04b.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp06/p04c.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	fp07/p01a.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	fp07/p01b.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	fp07/p02.c	/^int main() {$/;"	f	typeref:typename:int
+main	fp07/p03.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	fp07/p04.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	sope-extra/1_fork_pending.c	/^int main() {$/;"	f	typeref:typename:int
+main	sope-extra/2_fork_shell_sigint.c	/^int main() {$/;"	f	typeref:typename:int
+main	sope-extra/3_fork_pending_pgid.c	/^int main() {$/;"	f	typeref:typename:int
+main	sope-extra/4_fork_exec.c	/^int main(int argc, char* argv[]) {$/;"	f	typeref:typename:int
+main	sope-extra/5_sa_restart.c	/^int main(void) {$/;"	f	typeref:typename:int
+make_target	sope-extra/Makefile	/^define make_target$/;"	m
+min	fp07/p01a.c	/^#define min(/;"	d	file:
+min	fp07/p01b.c	/^#define min(/;"	d	file:
+min	fp07/p03.c	/^#define min(/;"	d	file:
+min	fp07/p04.c	/^#define min(/;"	d	file:
+mul	fp05/p02.c	/^    float mul;$/;"	m	struct:results	typeref:typename:float	file:
+mut	fp07/p01a.c	/^pthread_mutex_t mut = PTHREAD_MUTEX_INITIALIZER;  \/\/ mutex p\/a sec.critica$/;"	v	typeref:typename:pthread_mutex_t
+mut	fp07/p01b.c	/^pthread_mutex_t mut = PTHREAD_MUTEX_INITIALIZER;  \/\/ mutex p\/a sec.critica$/;"	v	typeref:typename:pthread_mutex_t
+mut	fp07/p03.c	/^pthread_mutex_t mut = PTHREAD_MUTEX_INITIALIZER;  \/\/ mutex p\/a sec.critica$/;"	v	typeref:typename:pthread_mutex_t
+mutex	fp07/p02.c	/^pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t
+name	fp02/p4b.c	/^    char name[NAME_SIZE + 1];$/;"	m	struct:aluno	typeref:typename:char[]	file:
+npos	fp07/p01a.c	/^int npos;$/;"	v	typeref:typename:int
+npos	fp07/p01b.c	/^int npos;$/;"	v	typeref:typename:int
+npos	fp07/p03.c	/^int npos;$/;"	v	typeref:typename:int
+npos	fp07/p04.c	/^int npos;$/;"	v	typeref:typename:int
+pos	fp07/p01a.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+pos	fp07/p01b.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+pos	fp07/p03.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+pos	fp07/p04.c	/^int pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int
+print_pending_signals	sope-extra/1_fork_pending.c	/^void print_pending_signals() {$/;"	f	typeref:typename:void
+print_pending_signals	sope-extra/2_fork_shell_sigint.c	/^void print_pending_signals() {$/;"	f	typeref:typename:void
+print_pending_signals	sope-extra/3_fork_pending_pgid.c	/^void print_pending_signals() {$/;"	f	typeref:typename:void
+print_pending_signals	sope-extra/4_fork_exec.c	/^void print_pending_signals() {$/;"	f	typeref:typename:void
+print_pending_signals	sope-extra/5_sa_restart.c	/^void print_pending_signals() {$/;"	f	typeref:typename:void
+proc_label	sope-extra/1_fork_pending.c	/^const char* proc_label() {$/;"	f	typeref:typename:const char *
+proc_label	sope-extra/2_fork_shell_sigint.c	/^const char *proc_label() { return (is_parent() ? "PRNT" : "CHLD"); }$/;"	f	typeref:typename:const char *
+proc_label	sope-extra/3_fork_pending_pgid.c	/^const char* proc_label() {$/;"	f	typeref:typename:const char *
+proc_label	sope-extra/4_fork_exec.c	/^const char* proc_label() {$/;"	f	typeref:typename:const char *
+proc_label	sope-extra/5_sa_restart.c	/^const char* proc_label() {$/;"	f	typeref:typename:const char *
+results	fp05/p02.c	/^struct results {$/;"	s	file:
+set_signal_handler	sope-extra/4_fork_exec.c	/^int set_signal_handler(int signo) {$/;"	f	typeref:typename:int
+sig_handler	sope-extra/1_fork_pending.c	/^void sig_handler(int signo) {$/;"	f	typeref:typename:void
+sig_handler	sope-extra/2_fork_shell_sigint.c	/^void sig_handler(int signo) {$/;"	f	typeref:typename:void
+sig_handler	sope-extra/3_fork_pending_pgid.c	/^void sig_handler(int signo) {$/;"	f	typeref:typename:void
+sig_handler	sope-extra/4_fork_exec.c	/^void sig_handler(int signo) {$/;"	f	typeref:typename:void
+sig_handler	sope-extra/5_sa_restart.c	/^void sig_handler(int signo) {$/;"	f	typeref:typename:void
+sigchld_handler	fp04/p03b.c	/^void sigchld_handler(int signo) {$/;"	f	typeref:typename:void
+sigint_handler	fp04/p01a.c	/^void sigint_handler(int signo) {$/;"	f	typeref:typename:void
+sigint_handler	fp04/p01c.c	/^void sigint_handler(int signo) {$/;"	f	typeref:typename:void
+sigint_handler	fp04/p02a.c	/^void sigint_handler(int signo) {$/;"	f	typeref:typename:void
+sigint_handler	fp04/p02c.c	/^void sigint_handler(int signo) {$/;"	f	typeref:typename:void
+sigterm_handler	fp04/p02c.c	/^void sigterm_handler(int signo) {$/;"	f	typeref:typename:void
+sigusr_handler	fp04/p03a.c	/^void sigusr_handler(int signo) {$/;"	f	typeref:typename:void
+sigusr_handler	fp04/p03b.c	/^void sigusr_handler(int signo) {$/;"	f	typeref:typename:void
+sleep_and_print	sope-extra/1_fork_pending.c	/^void sleep_and_print(unsigned int seconds) {$/;"	f	typeref:typename:void
+sleep_and_print	sope-extra/2_fork_shell_sigint.c	/^void sleep_and_print(unsigned int seconds) {$/;"	f	typeref:typename:void
+sleep_and_print	sope-extra/3_fork_pending_pgid.c	/^void sleep_and_print(unsigned int seconds) {$/;"	f	typeref:typename:void
+sleep_and_print	sope-extra/4_fork_exec.c	/^void sleep_and_print(unsigned int seconds) {$/;"	f	typeref:typename:void
+sleep_and_print	sope-extra/5_sa_restart.c	/^void sleep_and_print(unsigned int seconds) {$/;"	f	typeref:typename:void
+status	fp05/p02.c	/^    int status;$/;"	m	struct:results	typeref:typename:int	file:
+sub	fp05/p02.c	/^    float sub;$/;"	m	struct:results	typeref:typename:float	file:
+sum	fp05/p02.c	/^    float sum;$/;"	m	struct:results	typeref:typename:float	file:
+threadFunc	fp06/p04a.c	/^void * threadFunc(void * arg) {$/;"	f	typeref:typename:void *
+threadFunc	fp06/p04b.c	/^void * threadFunc(void * arg) {$/;"	f	typeref:typename:void *
+threadFunc	fp06/p04c.c	/^void* threadFunc(void* arg) {$/;"	f	typeref:typename:void *
+thrfunc	fp06/p01a.c	/^void* thrfunc(void* arg) {$/;"	f	typeref:typename:void *
+thrfunc	fp06/p01b.c	/^void* thrfunc(void* arg) {$/;"	f	typeref:typename:void *
+thrfunc	fp06/p02.c	/^void* thrfunc(void* arg) {$/;"	f	typeref:typename:void *
+thrfunc	fp07/p02.c	/^void* thrfunc(void* arg) {$/;"	f	typeref:typename:void *
+v	fp04/p03a.c	/^static int v = 0;$/;"	v	typeref:typename:int	file:
+v	fp04/p03b.c	/^static int v = 0;$/;"	v	typeref:typename:int	file:
+val	fp07/p01a.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+val	fp07/p01b.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+val	fp07/p03.c	/^int buf[MAXELEMS], pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int[]
+val	fp07/p04.c	/^int pos = 0, val = 0;              \/\/ variaveis partilhadas$/;"	v	typeref:typename:int
+verify	fp07/p01a.c	/^void* verify(void* arg) {$/;"	f	typeref:typename:void *
+verify	fp07/p01b.c	/^void* verify(void* arg) {$/;"	f	typeref:typename:void *
+verify	fp07/p03.c	/^void* verify(void* arg) {$/;"	f	typeref:typename:void *
+verify	fp07/p04.c	/^void* verify(void* arg) {$/;"	f	typeref:typename:void *
